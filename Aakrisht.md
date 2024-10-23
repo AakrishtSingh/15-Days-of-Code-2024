@@ -1,8 +1,8 @@
-# [Aakrisht] - Vision 15 Days of Code Log
+# Aakrisht - Vision 15 Days of Code Log
 
 ### Day 1
 
-[23rd] [October], 2024
+23rd October, 2024
 
 - Question 1
   [https://codeforces.com/contest/1834/submission/287557000]
