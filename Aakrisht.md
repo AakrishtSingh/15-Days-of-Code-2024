@@ -25,3 +25,19 @@
 - Question 4
   [https://www.codechef.com/viewsolution/1101214965]
 - Solved 3 Questions in Codeforces Contest
+
+### Day 3
+
+25th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1791/submission/287927800]
+- Question 2
+  [https://codeforces.com/contest/1789/submission/287935777]
+- Question 3
+  [https://codeforces.com/contest/1788/submission/287939598]
+- Question 4
+  [https://codeforces.com/contest/1783/submission/287950772]
+- Question 5
+  [https://codeforces.com/contest/1783/submission/287950772]
+- Upsolved the codeforces contest questions.
