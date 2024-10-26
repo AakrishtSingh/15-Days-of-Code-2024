@@ -41,3 +41,15 @@
 - Question 5
   [https://codeforces.com/contest/1783/submission/287950772]
 - Upsolved the codeforces contest questions.
+
+### Day 4
+
+26th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1766/submission/288079733]
+- Question 2
+  [https://codeforces.com/contest/1761/submission/288089946]
+- Question 3
+  [https://leetcode.com/problems/longest-common-prefix/submissions/1434200363/]
+- Gave the Codeforces Contest Round 982 (Div. 2)  
