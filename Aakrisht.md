@@ -53,3 +53,17 @@
 - Question 3
   [https://leetcode.com/problems/longest-common-prefix/submissions/1434200363/]
 - Gave the Codeforces Contest Round 982 (Div. 2)  
+
+### Day 4
+
+26th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1951/submission/288286590]
+- Question 2
+  [https://codeforces.com/contest/1883/submission/288292590]
+- Question 3
+  [https://codeforces.com/contest/1878/submission/288312137]
+- Started learning STL from LUV
+  Watched lecture explaining vectors,pairs as well as nesting of pairs
+- Was not able to give today's codeforces contest due to personal reasons
