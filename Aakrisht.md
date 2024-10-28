@@ -67,3 +67,17 @@
 - Started learning STL from LUV
   Watched lecture explaining vectors,pairs as well as nesting of pairs
 - Was not able to give today's codeforces contest due to personal reasons
+
+### Day 6
+
+28th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/96/submission/288586430]
+- Question 2
+  [https://codeforces.com/contest/1875/submission/288507835]
+- Question 3
+  [https://codeforces.com/contest/977/submission/288575702]
+- Learning STL from LUV
+  Watched lecture explaining Iterators and Maps
+- Gave the Educational Codeforces Round 171
