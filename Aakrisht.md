@@ -81,3 +81,16 @@
 - Learning STL from LUV
   Watched lecture explaining Iterators and Maps
 - Gave the Educational Codeforces Round 171
+
+### Day 7
+
+29th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1850/submission/288754612]
+- Question 2
+  [https://codeforces.com/contest/1855/submission/288750384]
+- Question 3
+  [https://codeforces.com/contest/1869/submission/288746775]
+- Learning STL from LUV
+  Watched lecture explaining multimap and unordered map
