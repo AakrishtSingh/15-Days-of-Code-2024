@@ -94,3 +94,15 @@
   [https://codeforces.com/contest/1869/submission/288746775]
 - Learning STL from LUV
   Watched lecture explaining multimap and unordered map
+
+### Day 8
+
+30th October, 2024
+
+- Question 1
+  [https://codeforces.com/contest/236/submission/288914160]
+- Question 2
+  [https://codeforces.com/contest/2009/submission/288912720]
+- Question 3
+  [https://codeforces.com/contest/200/submission/288912125]
+- Gave the Codechef contest.Solved 2 questions
