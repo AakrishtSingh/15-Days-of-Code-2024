@@ -106,3 +106,15 @@
 - Question 3
   [https://codeforces.com/contest/200/submission/288912125]
 - Gave the Codechef contest.Solved 2 questions
+
+### Day 9
+
+3rd November, 2024
+
+- Question 1
+  [https://codeforces.com/contest/158/submission/289775107]
+- Question 2
+  [https://codeforces.com/contest/263/submission/289775491]
+- Question 3
+  [https://codeforces.com/contest/112/submission/289775559]
+- Upsolved the previous codeforces contest questions
