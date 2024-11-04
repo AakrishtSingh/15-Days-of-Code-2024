@@ -118,3 +118,14 @@
 - Question 3
   [https://codeforces.com/contest/112/submission/289775559]
 - Upsolved the previous codeforces contest questions
+
+### Day 10
+
+4th November, 2024
+
+- Question 1
+  [https://codeforces.com/contest/469/submission/289959274]
+- Question 2
+  [https://codeforces.com/contest/467/submission/289929879]
+- Question 3
+  [https://codeforces.com/contest/677/submission/289923772]
