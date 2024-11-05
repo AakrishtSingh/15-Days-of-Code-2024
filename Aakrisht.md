@@ -129,3 +129,14 @@
   [https://codeforces.com/contest/467/submission/289929879]
 - Question 3
   [https://codeforces.com/contest/677/submission/289923772]
+
+### Day 11
+
+5th November, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1722/submission/290103039]
+- Question 2
+  [https://codeforces.com/contest/1551/submission/290102879]
+- Question 3
+  [https://codeforces.com/contest/1360/submission/290118983]
