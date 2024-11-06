@@ -145,4 +145,4 @@
 
 6th November, 2024
 
-- Gave codechef contest div 3. solved four questions.
+- Gave codechef contest div 3. solved three questions.
