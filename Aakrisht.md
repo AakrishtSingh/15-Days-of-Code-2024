@@ -140,3 +140,9 @@
   [https://codeforces.com/contest/1551/submission/290102879]
 - Question 3
   [https://codeforces.com/contest/1360/submission/290118983]
+
+### Day 12
+
+6th November, 2024
+
+- Gave codechef contest div 3. solved four questions.
