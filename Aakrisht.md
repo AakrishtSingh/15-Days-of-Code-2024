@@ -146,3 +146,12 @@
 6th November, 2024
 
 - Gave codechef contest div 3. solved three questions.
+
+### Day 13
+
+7th November, 2024
+
+- Question 1
+  [https://codeforces.com/contest/1837/submission/290394784]
+- Question 2
+  [https://codeforces.com/contest/1828/submission/290399884]
