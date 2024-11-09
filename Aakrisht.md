@@ -155,3 +155,12 @@
   [https://codeforces.com/contest/1837/submission/290394784]
 - Question 2
   [https://codeforces.com/contest/1828/submission/290399884]
+
+### Day 14
+
+9th November, 2024
+
+- Question 1
+  [https://codeforces.com/contest/2019/submission/290722894]
+- Question 2
+  [https://codeforces.com/contest/2005/submission/290727537]
